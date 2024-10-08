@@ -1,7 +1,7 @@
 
 Cpu
 Memory
-This part stores temorary data requred for CPU operations.
+This part stores temporary data required for CPU operations.
 
 Video Card
 
